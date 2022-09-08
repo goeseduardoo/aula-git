@@ -57,6 +57,13 @@ Para testar, execute na sua máquina o comando:
 Executar o comando acima copia todo o conteúdo do repositório `aula-git` para uma pasta com o mesmo nome dentro do diretório atual.
 Você pode então abrir o arquivo `README.md` e olhar o que tem dentro.
 
+
+### Abrir pasta main
+
+```cd aula-git```
+
+Abre a pasta aula-git
+
 ### Configurar nome e email
 
 Antes de sair modificando as coisas e enviar devolta ao Github, é importante que a gente se identifique.
@@ -65,11 +72,11 @@ Assim, qualquer modificação que fizermos vai ficar "assinada" depois.
 
 Para informar o meu nome, por exemplo, escrevo o comando:
 
-```git config user.name="Roger"```
+```git config user.name "Roger"```
 
 Para informar o meu email, escrevo:
 
-```git config user.email="roger.silva@canoas.ifrs.edu.br"```
+```git config user.email "roger.silva@canoas.ifrs.edu.br"```
 
 ## Criar um fork e adicionar colaboradores
 
